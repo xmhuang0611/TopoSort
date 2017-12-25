@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  main.cpp
+  TopoSort.cpp
+c:\users\huangxm\desktop\toposort\toposort\toposort.cpp(180): warning C4715: “TopoSort::sort”: 不是所有的控件路径都返回值
+  TopoSort.vcxproj -> C:\Users\huangxm\Desktop\TopoSort\Debug\TopoSort.exe
